@@ -1,0 +1,10 @@
+/* removendo estilos padrões do css */
+*{
+padding: 0; /* margem interna */
+margin: 0; /* margem interna */
+box-sizing: border-box; /* fixa o tamanho da box */
+}
+
+html, body {
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
